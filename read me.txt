@@ -1,0 +1,5 @@
+Djnag0_Quiz
+1 created a project Django_Quiz
+2 api - api 
+3 superuser harsh/pass=harsh
+4 created 4 models Category,Quizzes,Questions & Answers.
